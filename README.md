@@ -54,7 +54,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#conda">Create an environment and install all the dependencies</a></li>
-        <li><a href="#clone">Clone the repo</a></li>
+        <li><a href="#clone">Clone the repository</a></li>
         <li><a href="#Running">Run the test set as sdf file</a></li>
       </ul>
     </li>
